@@ -1,7 +1,7 @@
 import requests
 from tqdm import tqdm
 import math
-url = input("Enter Your Fucking URL??\n")
+url = input("Enter Your URL??\n")
 response = requests.get(url, stream=True)
 total_size_in_bytes = float(response.headers["Content-Length"])
 total_size = float("{:.2f}".format(
