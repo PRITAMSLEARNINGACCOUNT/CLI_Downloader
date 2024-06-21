@@ -4,7 +4,7 @@
 # Installation
 1. Fork/Clone/Download this repo
 
-   `git clone https://github.com/PRITAMSLEARNINGACCOUNT/Auto-Reply-CHATBOT`
+   `git clone https://github.com/PRITAMSLEARNINGACCOUNT/CLI_Downloader`
 
 2. Install uv
 
